@@ -1,0 +1,13 @@
+.Formatter {
+  padding-top: 30px;
+  width: 50%;
+  background: rgba(114, 8, 73, 0.05);
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.Formatter .GraphqlCodeBlock {
+  padding: 15px;
+}

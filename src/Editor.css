@@ -1,0 +1,13 @@
+.Editor {
+  padding-top: 30px;
+  width: 50%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+}
+
+.Editor .CodeMirror {
+  height: 100%;
+  width: 100%;
+}
